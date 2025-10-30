@@ -214,7 +214,7 @@ export class ErrorInterceptor implements HttpInterceptor {
 }
 ```
 
-## �📦 Boas Práticas
+## 📦 Boas Práticas
 ● Componentes pequenos e reutilizáveis (SRP)  
 ● Dividir entre containers (pages) e components  
 ● Isolar lógica em services  
