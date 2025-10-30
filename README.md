@@ -284,9 +284,9 @@ features/
     │       └── (arquivos da page...)
     ├── components/
     │   ├── some-feature-dashboard-actions/
-    │   │   ├── vizzoo-dashboard-actions.component.html
-    │   │   ├── vizzoo-dashboard-actions.component.scss
-    │   │   └── vizzoo-dashboard-actions.component.ts
+    │   │   ├── some-feature-dashboard-actions.component.html
+    │   │   ├── some-feature-dashboard-actions.component.scss
+    │   │   └── some-feature-dashboard-actions.component.ts
     │   ├── some-feature-dashboard-title/
     │   │   └── (arquivos do componente...)
     │   └── some-feature-sales-tax/
